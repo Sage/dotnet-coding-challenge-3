@@ -51,3 +51,5 @@ We are looking production quality code which utilises design patterns where appr
 
  - Code should be testable
  - We expect you to be mindful of correct HTTP status code usage
+
+You should clone this repository and when you're ready to share your work push it to private repository and our recruitment team will let you know the username to add as a collaborator so we can check it out.
